@@ -1,0 +1,41 @@
+.container {
+  padding: 50px;
+}
+
+.container-banner a {
+  background-color: rgb(40, 231, 168);
+  padding: 7px 15px;
+  margin-top: 25px;
+  border-radius: 9px;
+  color: white;
+}
+
+.container-banner a:hover {
+  background-color: rgb(27, 150, 109);
+}
+.container-banner h1 {
+  margin-bottom: 0px;
+  color: white;
+}
+
+.container-banner p {
+  margin-bottom: 30px;
+  color: white;
+}
+
+.container-footer i {
+  font-size: 40px;
+  padding: 0px 10px 20px;
+  color: white;
+}
+
+.container-footer {
+  text-align: center;
+  background-color: rgb(142, 198, 233);
+  padding: 20px;
+  color: white;
+}
+
+.container-footer i:hover {
+  color: gray;
+}
